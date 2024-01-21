@@ -41,6 +41,7 @@ public class _6_AssignmentOperator {
         System.out.println(num);
 
         int result=num++; //fetch the value and then increment
+        int result1=++num; //Increment and then fetch the value
         System.out.println(result);
 
     }
