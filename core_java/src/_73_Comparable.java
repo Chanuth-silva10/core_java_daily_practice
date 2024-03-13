@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class _73_Comparable {
+public class _73_Comparable {
 }
